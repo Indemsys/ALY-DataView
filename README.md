@@ -26,3 +26,4 @@
 - TeeChart PRO v2017.20 
 - RxLib 2.75 Update 1.18
 - DevExpress VCL 16.2.5
+- Async Professional for RAD Studio 10.2
